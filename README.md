@@ -17,9 +17,13 @@
 ---------------------------------------------------------------------------------------
 # 👉🏻使用教程
 1⃣️先使用 sub.dler.io 将你的订阅链接转码成clash格式
+
 2⃣️在转码之后生成的订阅链接后面加入：
 &config=https%3A%2F%2Fraw.githubusercontent.com%2Fbunizao%2Frules-in-clash%2Fmain%2Frules.ini&emoji=true&list=false&udp=false&tfo=false&scv=false&fdn=false&sort=false
 3⃣️将生成完的一长串直接倒入clash！
+
 「注」
+
 ❶不能用请先检查第1⃣️步有没有出现问题（例如&emoji=true&list=false&udp=false&tfo=false&scv=false&fdn=false&sort=false）不关我的事，请移步机场。
+
 ❷上面的订阅转换链接来自dlercloud.
