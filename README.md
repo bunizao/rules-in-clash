@@ -15,7 +15,7 @@
 规则更新售后频道 telegram https://t.me/hututuTAT
 
 # 👉🏻使用教程
-1⃣️先使用 sub.dler.io 将你的订阅链接转码成clash格式
+1⃣️先使用  https://sub.dler.io 将你的订阅链接转码成clash格式
 
 2⃣️在转码之后生成的订阅链接后面加入：
 
