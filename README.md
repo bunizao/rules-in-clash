@@ -18,16 +18,16 @@
 2⃣️在转码之后生成的订阅链接后面加入（注意区分版本类型）
 
 rules-public（最推荐的规则，尤其适合apple用户使用）  
-***&config=https%3A%2F%2Fraw.githubusercontent.com%2Fbunizao%2Frules-in-clash%2Fmain%2Frules.ini
+***&config=https%3A%2F%2Fraw.githubusercontent.com%2Fbunizao%2Frules-in-clash%2Fmain%2Frules.ini***
 
 rules2（删减了一些关于苹果的规则，**适合windows以及android用户**）  
-***&config=https%3A%2F%2Fraw.githubusercontent.com%2Fbunizao%2Frules-in-clash%2Fmain%2Frules2.ini
+***&config=https%3A%2F%2Fraw.githubusercontent.com%2Fbunizao%2Frules-in-clash%2Fmain%2Frules2.ini***
 
 rules3（此版本在rules2的基础上删除了**全部**emoji）  
-***&config=https%3A%2F%2Fraw.githubusercontent.com%2Fbunizao%2Frules-in-clash%2Fmain%2Frules3.ini
+***&config=https%3A%2F%2Fraw.githubusercontent.com%2Fbunizao%2Frules-in-clash%2Fmain%2Frules3.ini***
 
 rules-beta🚧（beta测试版🚧不保证有可用性）  
-***&config=https%3A%2F%2Fraw.githubusercontent.com%2Fbunizao%2Frules-in-clash%2Fmain%2Frules-beta.ini
+***&config=https%3A%2F%2Fraw.githubusercontent.com%2Fbunizao%2Frules-in-clash%2Fmain%2Frules-beta.ini***
 
 3⃣️将生成完的一长串链接直接倒入clash！
 ****
