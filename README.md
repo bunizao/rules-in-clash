@@ -17,7 +17,7 @@
 
 2⃣️在转码之后生成的订阅链接后面加入：
 
-&config=https%3A%2F%2Fraw.githubusercontent.com%2Fbunizao%2Frules-in-clash%2Fmain%2F__rules__.ini
+&config=https%3A%2F%2Fraw.githubusercontent.com%2Fbunizao%2Frules-in-clash%2Fmain%2F*rules*.ini
 
 3⃣️将生成完的一长串链接直接倒入clash！
 
