@@ -26,7 +26,7 @@ rules2（删减了一些关于苹果的规则，**适合windows以及android用�
 rules3（此版本在rules2的基础上删除了**全部**emoji）  
 ***&config=https%3A%2F%2Fraw.githubusercontent.com%2Fbunizao%2Frules-in-clash%2Fmain%2Frules3.ini***
 
-rules-beta🚧（beta测试版🚧不保证有可用性）  
+rules-beta🚧（beta测试版🚧可能随时不可用）  
 ***&config=https%3A%2F%2Fraw.githubusercontent.com%2Fbunizao%2Frules-in-clash%2Fmain%2Frules-beta.ini***
 
 3⃣️将生成完的一长串链接直接倒入clash！
@@ -38,4 +38,6 @@ rules-beta🚧（beta测试版🚧不保证有可用性）
 
 ## 效果图
 
-正在施工🚧
+Public👉🏻(https://t.me/hututuTAT/74)  
+rules2👉🏻(https://t.me/hututuTAT/75)  
+rules3👉🏻(https://t.me/hututuTAT/76)
