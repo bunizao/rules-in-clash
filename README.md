@@ -1,7 +1,7 @@
 # tutu的私有clash规则
-谁用谁爽😊🥰
+## 谁用谁爽😊🥰
 
-这里是tutu规则public开源版本，遇到问题欢迎提issue。
+### FOR Clash(Windows/Mac OS/Android/OpenWrt)&Shadowrocket(Surge/Loon)
 
 欢迎使用tutu的自制规则！现在接受规则自定义计划 随心所欲定制你自己的规则。
 
@@ -13,9 +13,9 @@
 
 
 ## 👉🏻使用教程
-1⃣️先使用  https://sub.dler.io 将你的订阅链接转码成clash格式
+1⃣️先使用  https://sub.dler.io 将你的订阅链接转码成clash格式(Shadowrocket用户也要选择clash的选项哦）
 
-2⃣️在转码之后生成的订阅链接后面加入（注意区分版本类型）
+2⃣️在转码之后生成的订阅链接后面加入以下后缀（注意区分版本类型）
 
 rules-public（最推荐的规则，尤其适合apple用户使用）  
 ***&config=https%3A%2F%2Fraw.githubusercontent.com%2Fbunizao%2Frules-in-clash%2Fmain%2Frules.ini***
