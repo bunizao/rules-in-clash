@@ -2,7 +2,7 @@
 
 ## FOR Clash(Windows/Mac OS/Android/OpenWrt) & Shadowrocket(Surge/Loon)
 
-# 谁用谁爽😊🥰
+### 谁用谁爽😊🥰
 
 欢迎使用tutu的自制规则！现在接受**规则自定义计划** 随心所欲定制你自己的规则。
 
