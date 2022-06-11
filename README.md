@@ -1,6 +1,6 @@
 # tutu的私有分流规则
 
-## FOR Clash(Windows/Mac OS/Android/OpenWrt)&Shadowrocket(Surge/Loon)
+## FOR Clash(Windows/Mac OS/Android/OpenWrt) & Shadowrocket(Surge/Loon)
 
 # 谁用谁爽😊🥰
 
