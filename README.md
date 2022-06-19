@@ -12,7 +12,7 @@
 
 请求新增分流请提PR(Pull Request)，或者定制。
 
-**规则更新公告将会在这个telegram频道发布，敬请关注： https://t.me/hututuTAT**
+**规则更新公告将会在这个telegram频道发布，敬请关注： https://t.me/hututu00**
 
 
 ## 👉🏻使用教程
