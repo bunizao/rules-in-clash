@@ -4,15 +4,15 @@
 
 ### 谁用谁爽😊🥰
 
-欢迎使用tutu的自制规则！现在接受**规则自定义计划** 随心所欲定制你自己的规则。
+* 欢迎使用tutu的自制规则！现在接受**规则自定义计划** 随心所欲定制你自己的规则。
 
-作者的私聊机器人/规则的问题反馈🤖️ https://t.me/chatwithtutu_bot
+* 作者的私聊机器人/规则的问题反馈🤖️ https://t.me/ChatWithTutu_bot
 
-💰9.99 USD 定制clash规则 保证一年售后有效期，一年之后保证现有规则永久使用，需要更新请按当时价格续费。
+* 请求新增分流请提PR(Pull Request)，或者定制。
 
-请求新增分流请提PR(Pull Request)，或者定制。
+* 规则更新公告将会在这个telegram频道发布，敬请关注： https://t.me/hututu00
 
-**规则更新公告将会在这个telegram频道发布，敬请关注： https://t.me/hututu00**
+* 加入售后会员群（付费）请联系：https://t.me/TicketOffice_bot
 
 
 ## 👉🏻使用教程
@@ -20,18 +20,22 @@
 
 2⃣️在转码之后生成的订阅链接后面加入以下后缀（注意区分版本类型）
 
-rules-public（最推荐最完善的规则，**尤其适合apple用户使用**）  
-***&config=https%3A%2F%2Fraw.githubusercontent.com%2Fbunizao%2Frules-in-clash%2Fmain%2Frules.ini***
-
-rules2（删减了一些关于apple的规则，**适合windows以及android用户**）  
-***&config=https%3A%2F%2Fraw.githubusercontent.com%2Fbunizao%2Frules-in-clash%2Fmain%2Frules2.ini***
-
-rules3（此版本在rules2的基础上删除了**全部**emoji）  
-***&config=https%3A%2F%2Fraw.githubusercontent.com%2Fbunizao%2Frules-in-clash%2Fmain%2Frules3.ini***
-
+rules-public（最推荐最完善的规则，**尤其适合apple用户使用**）
+```
+&config=https%3A%2F%2Fraw.githubusercontent.com%2Fbunizao%2Frules-in-clash%2Fmain%2Frules.ini
+```
+rules2（删减了一些关于apple的规则，**适合windows以及android用户**）
+```
+&config=https%3A%2F%2Fraw.githubusercontent.com%2Fbunizao%2Frules-in-clash%2Fmain%2Frules2.ini
+```
+rules3（此版本在rules2的基础上删除了**全部**emoji） 
+```
+&config=https%3A%2F%2Fraw.githubusercontent.com%2Fbunizao%2Frules-in-clash%2Fmain%2Frules3.ini
+```
 rules-beta🚧（beta测试版🚧可能随时不可用）  
-***&config=https%3A%2F%2Fraw.githubusercontent.com%2Fbunizao%2Frules-in-clash%2Fmain%2Frules-beta.ini***
-
+```
+&config=https%3A%2F%2Fraw.githubusercontent.com%2Fbunizao%2Frules-in-clash%2Fmain%2Frules-beta.ini
+```
 3⃣️将生成完的一长串链接直接倒入clash！
 ****
 「注」  
